@@ -1,0 +1,6 @@
+{
+  "name": "YouTube to MP3 Converter API",
+  "description": "Node.js API and converter interface to convert YouTube videos to MP3 via ytmp3.gl.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
